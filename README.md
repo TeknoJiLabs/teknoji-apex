@@ -49,10 +49,11 @@ php artisan serve
 ### 📚 Usage
 Here's a quick guide on how to use TeknoJiApex after installation:
 
-Step 1: Log in to the admin panel.
-Step 2: Configure your settings and permissions.
-Step 3: Start adding users and managing content.
-🤝 Contributing
+- Step 1: Log in to the admin panel.
+- Step 2: Configure your settings and permissions.
+- Step 3: Start adding users and managing content.
+
+### 🤝 Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Check out our CONTRIBUTING.md for more information on how to start contributing.
@@ -61,7 +62,8 @@ Check out our CONTRIBUTING.md for more information on how to start contributing.
 Distributed under the MIT License. See LICENSE for more information.
 
 ### 💖 Acknowledgements
-Laravel
-Livewire
-Spatie Laravel Permission
-And all other contributors who make this project possible.
+- [Laravel](https://laravel.com/docs/)
+- [Livewire](https://livewire.laravel.com/)
+- [Spatie Laravel Permission](https://spatie.be/docs/laravel-permission/)
+- [Nwidart Modules](https://nwidart.com/laravel-modules/)
+- And all other contributors who make this project possible.
