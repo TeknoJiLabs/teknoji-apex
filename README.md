@@ -45,5 +45,6 @@ php artisan migrate
 
 # Serve the application
 php artisan serve
+```
+### 📚 Usage
 
-📚 Usage
