@@ -27,7 +27,7 @@ These instructions will get your copy of TeknoJiApex up and running on your loca
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/teknojiapex.git
+git clone https://github.com/TeknoJiLabs/teknoji-apex
 
 # Navigate to the project directory
 cd teknojiapex
@@ -66,4 +66,5 @@ Distributed under the MIT License. See LICENSE for more information.
 - [Livewire](https://livewire.laravel.com/)
 - [Spatie Laravel Permission](https://spatie.be/docs/laravel-permission/)
 - [Nwidart Modules](https://nwidart.com/laravel-modules/)
+- [Tabler Dashboard](https://github.com/tabler/tabler/)
 - And all other contributors who make this project possible.
